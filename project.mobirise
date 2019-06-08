@@ -42,7 +42,7 @@
     "gdpr": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
     "сanonical-url": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on",
+    "robotsSwitcher": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on"
   },
@@ -51,7 +51,7 @@
       "settings": {
         "main": true,
         "title": "Accueil",
-        "meta_descr": "",
+        "meta_descr": "Site de démonstration pour boutique d'E-cigarette. StudioWebPub  réalise pour vous votre site vitrine",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
