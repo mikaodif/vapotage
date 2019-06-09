@@ -13,7 +13,7 @@
         "warningColor": "#767676",
         "dangerColor": "#a0a0a0",
         "mainFont": "Roboto",
-        "display1Font": "Roboto",
+        "display1Font": "Indie Flower",
         "display1Size": 4.5,
         "display2Font": "Roboto",
         "display2Size": 2.2,
@@ -31,7 +31,13 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Indie Flower', handwriting",
+        "name": "Indie Flower",
+        "url": "https://fonts.googleapis.com/css?family=Indie+Flower:400"
+      }
+    ],
     "uniqCompNum": 12,
     "versionPublish": "4.10.0",
     "screenshot": "screenshot.png",
